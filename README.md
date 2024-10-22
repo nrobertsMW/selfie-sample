@@ -33,7 +33,7 @@ Contact the [MathWorks STEM Outreach team](mailto:stemoutreach@groups.mathworks.
 ### Accessing the Module
 ### **On MATLAB Online:**
 
-Use the [![image_0.png](Images/image_0.png)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/selfie-sample&project=Selfiesample.prj&file=Selfie_Sample.mlapp&focus=true) link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, you will see the app, and the audio files will begin to download. You may have to wait ~5 minutes for the files to download from the online repository.
+Use the [![image_0.png](Images/image_0.png)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/selfie-sample&project=Selfiesample.prj&file=Selfie_Sample.mlapp&focus=true) link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, you will see the app, and the audio files will begin to download. You may have to wait ~5 minutes for the files to download from the online repository.
 
 ### **On Desktop:**
 
