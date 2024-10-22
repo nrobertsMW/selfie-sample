@@ -33,11 +33,11 @@ Contact the [MathWorks STEM Outreach team](mailto:stemoutreach@groups.mathworks.
 ### Accessing the Module
 ### **On MATLAB Online:**
 
-Use the [![image_0.png](Images/image_0.png)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/selfie-sample&project=selfie-sample.prj&file=Selfie_Sample.mlapp&focus=true) link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, you will see the app, and the audio files will begin to download. You may have to wait ~5 minutes for the files to download from the online repository.
+Use the [![image_0.png](Images/image_0.png)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/selfie-sample&project=Selfiesample.prj&file=Selfie_Sample.mlapp&focus=true) link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, you will see the app, and the audio files will begin to download. You may have to wait ~5 minutes for the files to download from the online repository.
 
 ### **On Desktop:**
 
-Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double\-click on [selfie\-sample.prj](matlab: openProject("selfie-sample.prj")). It will add the appropriate files to your MATLAB path and open the app. You may have to wait ~2 minutes for the audio files to download from the online repository.
+Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double\-click on [Selfiesample.prj](matlab: openProject("Selfiesample.prj")). It will add the appropriate files to your MATLAB path and open the app. You may have to wait ~2 minutes for the audio files to download from the online repository.
 
 # How to use the app
 ### Acquire a Selfie
