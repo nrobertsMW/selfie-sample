@@ -43,38 +43,38 @@ Download or clone this repository. Open MATLAB, navigate to the folder containin
 ### Acquire a Selfie
 -  If you have a webcam, the preview window should already show you, you! You can click the "Take a Selfie" button to capture a photo of yourself. If you don't like the selfie, feel free to take another using the same button again. 
 
-![image_1.png](README_media/image_1.png)![image_2.png](README_media/image_2.png)
+![image_1.png](Images/image_1.png)![image_2.png](Images/image_2.png)
 
 -  If you don't have a webcam, or it cannot be found, you can browse for a selfie on your MATLAB Drive using the "Browse for Selfie" button. Find out more about uploading photos to MATLAB Drive [here](https://www.mathworks.com/help/matlab/matlab_env/access-files-in-matlab-online.html).  
 
-![image_3.png](README_media/image_3.png)
+![image_3.png](Images/image_3.png)
 
 ### Grayscale this Selfie and Select your Pixels
 -  Once you have a selfie that you are satisfied with, click the "Grayscale Selfie" button. 
 
-![image_4.png](README_media/image_4.png)
+![image_4.png](Images/image_4.png)
 
 -  This should bring up a pop\-up window with your selfie in black and white, and the following instructions: 
 
  *'Select 8 points on your selfie with the cursor. Press the "Enter" key to save them.'* 
 
 
-![image_5.png](README_media/image_5.png)
+![image_5.png](Images/image_5.png)
 
 -  The pixels/points you select will determine the notes that are populated in the Sample Table. Darker pixels will result in lower notes, and lighter pixels will result in higher ones. 
 
-![image_6.png](README_media/image_6.png)
+![image_6.png](Images/image_6.png)
 
 -  Use your cursor to select 8 points on your selfie, then press the "Enter" key on your keyboard to close the pop\-up window. 
 -  You should now see your grayscale selfie in the preview window, with the pixels you selected labeled. Also, your Sample Table should now be populated with notes that correspond to the pixels you selected. 
 
-![image_7.png](README_media/image_7.png)
+![image_7.png](Images/image_7.png)
 
 ### Choosing Lead and Percussion Instruments
 -  Now that you have your musical notes, it's time to choose your lead and percussion instruments. 
 -  Use the dropdown menus on the left to select between different lead instruments and percussion instruments. The app allows for one lead instrument and 3 percussion instruments at one time. 
 
-![image_8.png](README_media/image_8.png)
+![image_8.png](Images/image_8.png)
 
 
 *Note: If you see the notes changing when you select a new Lead Instrument, this is because of the transposition that is necessary between instruments. For example, a tuba cannot play as high of notes as a trumpet, so the notes are adjusted lower to compensate.*
@@ -82,33 +82,33 @@ Download or clone this repository. Open MATLAB, navigate to the folder containin
 ### Editing Percussion Beats
 -  Now you've selected your instruments, but may want to edit what beats they will play on. By default, the percussion instruments will play on beats 1, 3, 5, and 7.  
 
-![image_9.png](README_media/image_9.png)
+![image_9.png](Images/image_9.png)
 
 -  To customize which instrument plays which beats, just check/uncheck the beat for that particular percussion instrument in the Sample Table. 
 
-![image_10.png](README_media/image_10.png)
+![image_10.png](Images/image_10.png)
 
 ### Manually Adding Custom Notes or Rests
 -  What if you want a specific note, like G4, to be played on a specific beat by your lead instrument? 
 -  If you want to select a custom note without selecting new pixels, you can click right in the Sample Table cell you want to edit, and a dropdown of note options will appear for you to select from.  
 -  You will also see "&" as a note option, which corresponds to a "rest" instead of playing a note! 
 
-![image_11.png](README_media/image_11.png)
+![image_11.png](Images/image_11.png)
 
 ### Playing your Sample
 -  You're ready to hear your sample! 
 -  Press the "Play all Instruments" button to hear your full sample. 
 
-![image_12.png](README_media/image_12.png)![image_13.png](README_media/image_13.png)
+![image_12.png](Images/image_12.png)![image_13.png](Images/image_13.png)
 
 -  Want to hear your individual lead instrument or a percussion instrument? Use the "Play" button next to the instrument name to hear just that instrument. 
 
-![image_14.png](README_media/image_14.png)
+![image_14.png](Images/image_14.png)
 
 -  Loop your sample using the "Loops" spinner and control how many times the 8 beats will repeat on playback. 
 -  Adjust the tempo of your sample using the "Tempo" slider. 
 
-![image_15.png](README_media/image_15.png)
+![image_15.png](Images/image_15.png)
 
 -  Want to change the instruments or beats they are playing on? You can edit these at any time and tweak your Selfie Sample to your liking. 
 ### Saving your Selfie and Sample
@@ -116,7 +116,7 @@ Download or clone this repository. Open MATLAB, navigate to the folder containin
 -  Press the "Save Song and Selfie" button to save the selfie you took, as well as the sample you created. 
 -  You will be prompted to select a location within your MATLAB Drive for the files. 
 
-![image_16.png](README_media/image_16.png)
+![image_16.png](Images/image_16.png)
 
 
 ## Products
